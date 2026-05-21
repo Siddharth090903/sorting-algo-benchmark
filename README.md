@@ -1,4 +1,4 @@
-# Sorting Algorithm Benchmarks ⏱️
+# Sorting Algorithm Benchmarks 
 
 This repo is a performance benchmark of common computer science sorting algorithms.
 
